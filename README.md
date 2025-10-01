@@ -6,3 +6,5 @@ Este es un pequeño repositorio donde guardo datasets que me han parecido intere
 PRÓXIMOS DFs
 
 Planeo subir los archivos txt de una novela en francés, porque se me han ocurrido algunos experimentos para optimizar el aprendizaje de este idioma.
+
+También muy pronto tendré sobre Collatz. Ahí voy a mostrar todo el camino que hace cualquier número para llegar al 1.
